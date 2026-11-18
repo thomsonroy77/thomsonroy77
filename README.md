@@ -1,16 +1,25 @@
 ## Hi there 👋
 
-<!--
-**thomsonroy77/thomsonroy77** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm Thomson 👋
 
-Here are some ideas to get you started:
+I'm an aspiring Robotics & AI developer interested in building practical software, automation tools, and AI-powered applications.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🎯 Currently learning
+- Python
+- Artificial Intelligence & Machine Learning
+- Robotics
+- Software Development
+- Git & GitHub
+
+### 🔭 Interests
+- AI automation
+- Open-source software
+- Developer tools
+- Robotics
+- Machine Learning
+
+### 🌱 My Open-Source Journey
+I'm currently learning, building projects, and contributing to open-source software.
+
+### 📫 Connect
+GitHub: [@thomsonroy77](https://github.com/thomsonroy77)
